@@ -14,6 +14,8 @@ Use `npm run build` for a production build.
 
 ## Deploy to Cloudflare Workers
 
+Live site: [professional-portfolio.ragasibrian2.workers.dev](https://professional-portfolio.ragasibrian2.workers.dev)
+
 The Vite production build is deployed as Cloudflare Workers Static Assets. The
 Worker configuration serves `dist` and falls back to `index.html` for SPA routes.
 
